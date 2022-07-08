@@ -12,5 +12,5 @@
 - 📫 How to reach me: email me  on traceye5@aol.com
 
 
-
+  <img align="right" alt="Coding" width="400" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559 ">
 
