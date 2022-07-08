@@ -1,3 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tracey--E)](https://github.com/Tracey-E/github-readme-stats)
+
+
+
 ### Hi there 👋
 
 <!--
