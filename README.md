@@ -1,6 +1,6 @@
 [![Tracey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tracey-E&show_icons=true&theme=radical))](https://github.com/Tracey-E/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tracey-E&layout=compact)](https://github.com/Tracey-E/github-readme-stats)
-
+[![MasterHead](  <img align="center" alt="Coding" height='300' width="400" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559" />)](Tracey-E)
 
 ### Hi there 👋
 
@@ -12,5 +12,5 @@
 - 📫 How to reach me: email me  on traceye5@aol.com
 
 
-  <img align="right" alt="Coding" width="400" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559 ">
+  <img align="center" alt="Coding" height='300' width="400" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559" />
 
