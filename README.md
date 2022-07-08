@@ -1,6 +1,6 @@
 [![Tracey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tracey-E&show_icons=true&theme=radical))](https://github.com/Tracey-E/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tracey-E&layout=compact)](https://github.com/Tracey-E/github-readme-stats)
-
+<div style="background-color:red"> 
 
 ### Hi there 👋
 
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 
 -->
+</div>
